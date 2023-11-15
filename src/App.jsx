@@ -10,8 +10,6 @@ import Story from "./pages/Story";
 import Allstories from "./pages/Allstories";
 import MyStory from "./pages/MyStory";
 import AllUserStories from "./pages/userStories/AllUserStories";
-import DraftStories from "./pages/userStories/DraftStories";
-import Published from "./pages/userStories/Published";
 import { ProtectedRoute } from "./routes/protectedRoute";
 
 function App() {
